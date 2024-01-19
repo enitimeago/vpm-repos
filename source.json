@@ -1,12 +1,12 @@
 {
-    "name":"enitimeago/vpm-repos",
+    "name":"enitimeago",
     "id":"io.github.enitimeago.vpm-repos",
     "url":"https://enitimeago.github.io/vpm-repos/index.json",
     "author":{
         "name":"eni",
         "url":"https://github.com/enitimeago"
     },
-    "description":"eni's vpm packages",
+    "description":"eni's vpm repository",
     "infoLink":{
         "url":"https://github.com/enitimeago/vpm-repos",
         "text":"View on GitHub"
