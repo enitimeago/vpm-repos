@@ -13,6 +13,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
+        "bdunderscore/ndmf",
         "enitimeago/make-it-mmd"
     ]
 }
