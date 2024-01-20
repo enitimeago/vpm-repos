@@ -14,6 +14,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "bdunderscore/ndmf",
+        "hai-vr/blendshape-viewer-vcc",
+        "hai-vr/resilience-toolkit",
         "enitimeago/make-it-mmd"
     ]
 }
